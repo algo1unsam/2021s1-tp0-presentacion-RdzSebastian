@@ -2,6 +2,7 @@
 
 ## Estudiante: _Sebastian Rodriguez_
 
+Soy Team menta granizada, me copa hacer pixel art y trabajo como desarrollador en el CONICET
 ![foto](IMG_4375.jpg)
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
